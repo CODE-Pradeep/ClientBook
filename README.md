@@ -9,7 +9,7 @@ for use this project first you have to install pillow
 
 then run the login.py file
 
-user id :-admin 
+user id :-admin </br>
 password:- admin
 
 
